@@ -29,7 +29,7 @@
   - Terraform instalado em sua máquina local.
   - Azure CLI instalado e configurado (para autenticação).
     
-### Para implantar essa infraestrutura usando o Terraform com CLI é bem simples (por garantia, esteja no mesmo diretório que o arquivo main.tf se encontra):
-  - Execute **terraform init** para inicializar o Terraform e baixar os provedores.
-  - Execute **terraform plan** para visualizar as alterações que serão feitas.
-  - Execute **terraform apply** para criar os recursos no Azure. 
+### Para implantar essa infraestrutura usando o Terraform com CLI é bem simples (por garantia, esteja no mesmo diretório que o arquivo main.tf se encontra). Execute:
+  - <h3>terraform init</h3> para inicializar o Terraform e baixar os provedores.
+  - <h3>terraform plan</h3> para visualizar as alterações que serão feitas.
+  - <h3>terraform apply</h3> para criar os recursos no Azure. 
