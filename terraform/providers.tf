@@ -9,5 +9,5 @@ terraform {
 
 provider "azurerm" {
   features {}
-  subscription_id = "sUa_SuBsCriptioN" # Adicionando a ID da assinatura
+  subscription_id = "SUA_SUBSCRIPTION" # Adicionando a ID da assinatura
 }
